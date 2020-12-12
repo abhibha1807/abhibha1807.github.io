@@ -102,7 +102,8 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             I implemented a search cum annotation tool in the lines of the [Spike Cord search system by Allen Ai](https://spike.covid-19.apps.allenai.org/datasets/covid19/search#welcome),[Prodigy](https://prodi.gy/) and [Doccano](http://doccano.herokuapp.com/). I used Tkinter to design the UI and implemented algorithms to query from a database. I also added the functionality for the user to annotate the results and export them in different formats.
-      - layout: left
+     
+     - layout: left
         title: Visvesvarya National Institute of Technology, Nagpur
         link: https://vnit.ac.in/
         # link_text: boringcompany.com
@@ -111,6 +112,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+            I experimented with open source libraries like 'Scikit learn','Spacy' and 'River' for incremental machine learning, and used them to implement an NER (Named Entity Recognition) tagger using the pipeline implementation technique. I contributed towards a Journal paper on Detecting Geospatialness of Prepositions using Transfer Learning'. I implemented machine learning classifiers like Naive Bayes, Bayesnet Random Forests, SVM’s and Metaclassifiers to distinguish between spatial and non spatial sense. I experimented with pretrained language models like Ulmfit (Fast ai), to fine tune a language model for classification purposes. I also used the Hugging Face implementation of ’BERT’ to train a classifier and achieve an F1-score of 0.94 for detecting geospatialness of prepositions.
 
 
 
