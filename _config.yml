@@ -48,7 +48,7 @@ linkedin_username: abhibha-gupta
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.svg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hey everyone! Let me tell you a bit about myself, I am Abhibha and I believe in writing ‘good quality code’! I have been working in the field of NLP since my sophomore year. Currently, I want to learn more about the applications of Deep Learning in NLP. 
 
