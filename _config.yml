@@ -9,7 +9,7 @@ version: 2
 name: Abhibha Gupta
 title: Passionate NLPer
 email: abhibha1807@gmail.com
-# website: www.github.com/sproogen/resume-theme
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -50,9 +50,9 @@ linkedin_username: abhibha-gupta
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-      Hey everyone! Let me tell you a bit about myself, I am Abhibha and I believe in writing ‘good quality code’! I have been working in the field of NLP since my sophomore year. Currently, I want to learn more about the applications of Deep Learning in NLP. 
+  Hey everyone! Let me tell you a bit about myself, I am Abhibha and I believe in writing ‘good quality code’! I have been working in the field of NLP since my sophomore year. Currently, I want to learn more about the applications of Deep Learning in NLP. 
 
-  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 content:
   - title: Projects # Title for the section
@@ -72,8 +72,8 @@ content:
         # quote: >
         #   This journal
         description: | # this will include new lines to allow paragraphs
-          This was my first project related to <mark>NLP</mark>. I saw how research is a step by step process. I learned the basics and many important concepts got cleared in the process. I got to know more about feature selection and how to apply models for a particular use case.  
-    
+          # I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This was my first project related to <mark>NLP</mark>. I saw how research is a step by step process. I learnt the basics and many important concepts got cleared in the process. I got to know more about feature selection and how to apply models for a particular use case.  
       - layout: top-middle
         title: Search cum Annotation Tool
         #link: https://github.com/abhibha1807/summer_internship
@@ -95,28 +95,26 @@ content:
     content:
       - layout: left
         title: Tata Research, Design and Development Center, Pune
-        # link: https://www.tcs.com/research-and-innovation
+        link: https://www.tcs.com/research-and-innovation
         # link_text: boringcompany.com
-        sub_title: Project Intern
+        sub_title: research Intern
         caption: May 2020-Nov2020
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Implemented a Search cum Annotation tool in the lines of the [Spike Cord search system by Allen Ai](https://spike.covid-19.apps.allenai.org/datasets/covid19/search#welcome) and (Prodigy)[https://www.spacy.io]. I Used Tkinter to design the UI and implemented algorithms to query from a database. Also added the functionality for the user to annotate the results and export them in different formats.
-            Experimented with open source libraries like 'Scikit learn','Spacy' and 'River' for incremental machine learning, and used it to implement an NER tagger using pipelines.  
-
-
-    
+            Implemented a Search cum Annotation tool in the lines of the [Spike Cord search system by Allen Ai]I(https://spike.covid-19.apps.allenai.org/datasets/covid19/search#welcome). Used Tkinter to design the UI and implemented algorithms to query from a database. Also added the functionality for the user to annotate the results and export them in different formats.\n
+            Experimented with open source libraries like 'Scikit learn','Spacy' and 'River' for incremental machine learning, and used it to implement an NER tagger using pipelines. 
       - layout: left
         title: Visvesvarya National Institute of Technology, Nagpur
-        # link: https://vnit.ac.in/
+        link: https://vnit.ac.in/
         # link_text: boringcompany.com
-        sub_title: Research Intern
+        sub_title: research Intern
         caption: May2018-Dec2018
         # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Contributed towards a Journal paper on Detecting Geospatialness of Prepositions using Transfer Learning. Implemented machine learning classifiers using SciKit learn, including Naive Bayes, Bayesnet,Random Forests, SVM’s and Metaclassifiers to predict the probability of geospatialness of prepo-sitions in natural language text.
-            Experimented with transfer learning methods like Ulmfit (Fast ai), to fine tune a language model for classification purposes.  Also used the Hugging Face implementation of ’BERT’ to achieve better F1-scores (0.94) over the current SOTA for detecting geospatialness of prepositions.  
+            Contributed towards a Journal paper on Detecting Geospatialness of Prepositions using Transfer Learning. Implemented machine learning classifiers using SciKit learn, including Naive Bayes, Bayesnet,Random Forests, SVM’s and Metaclassifiers to predict the probability of geospatialness of prepo-sitions in natural language text.\n
+            Experimented with transfer learning methods like Ulmfit (Fast ai), to fine tune a language model for classification purposes. Also used the Hugging Face implementation of ’BERT’ to achieve better F1-scores (0.94) over the current SOTA for detecting geospatialness of prepositions. 
 
 
   - title: Education # Title for the section
@@ -149,7 +147,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: abhibha1807/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
