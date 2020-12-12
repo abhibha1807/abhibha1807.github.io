@@ -85,8 +85,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
          
-        description: | # this will include new lines to allow paragraphs
-            This project showed me how to use machine learning to create a tangible product for the end user. It was an enriching experience as it was the first time I had handled large code bases and learnt the importance of writing ‘clean and compartmentalized code’.
+#         description: | # this will include new lines to allow paragraphs
+#             This project showed me how to use machine learning to create a tangible product for the end user. It was an enriching experience as it was the first time I had handled large code bases and learnt the importance of writing ‘clean and compartmentalized code’.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
