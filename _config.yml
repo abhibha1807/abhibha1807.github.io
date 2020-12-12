@@ -9,7 +9,6 @@ version: 2
 name: Abhibha Gupta
 title: Passionate NLPer
 email: abhibha1807@gmail.com
-website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -101,7 +100,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Implemented a Search cum Annotation tool in the lines of the [Spike Cord search system by Allen Ai]I(https://spike.covid-19.apps.allenai.org/datasets/covid19/search#welcome). Used Tkinter to design the UI and implemented algorithms to query from a database. Also added the functionality for the user to annotate the results and export them in different formats.\n
+            Implemented a Search cum Annotation tool in the lines of the [Spike Cord search system by Allen Ai](https://spike.covid-19.apps.allenai.org/datasets/covid19/search#welcome). I Used Tkinter to design the UI and implemented algorithms to query from a database. Also added the functionality for the user to annotate the results and export them in different formats.
             Experimented with open source libraries like 'Scikit learn','Spacy' and 'River' for incremental machine learning, and used it to implement an NER tagger using pipelines. 
       - layout: left
         title: Visvesvarya National Institute of Technology, Nagpur
@@ -112,7 +111,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Contributed towards a Journal paper on Detecting Geospatialness of Prepositions using Transfer Learning. Implemented machine learning classifiers using SciKit learn, including Naive Bayes, Bayesnet,Random Forests, SVM’s and Metaclassifiers to predict the probability of geospatialness of prepo-sitions in natural language text.\n
+            Contributed towards a Journal paper on Detecting Geospatialness of Prepositions using Transfer Learning. Implemented machine learning classifiers using SciKit learn, including Naive Bayes, Bayesnet,Random Forests, SVM’s and Metaclassifiers to predict the probability of geospatialness of prepo-sitions in natural language text.
             Experimented with transfer learning methods like Ulmfit (Fast ai), to fine tune a language model for classification purposes. Also used the Hugging Face implementation of ’BERT’ to achieve better F1-scores (0.94) over the current SOTA for detecting geospatialness of prepositions. 
 
 
