@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Abhibha Gupta
-title: Passionate NLPer
+title: Passionate Researcher
 email: abhibha1807@gmail.com
 
 # Dark Mode (true/false/never)
@@ -49,7 +49,7 @@ linkedin_username: abhibha-gupta
 # about_title: About Me
 about_profile_image: images/profile.svg
 about_content: | # this will include new lines to allow paragraphs
-  Hey everyone! Let me tell you a bit about myself, I am Abhibha and my aim is to tackle the prevailing biases present in Natural Language Processing (NLP) sytems.! I have been working in the field of NLP since my sophomore year. Currently, I want to learn more about the applications of Deep Learning in NLP. 
+  Hey everyone! Let me tell you a bit about myself, I am Abhibha and my aim is to tackle the prevailing biases present in Natural Language Processing <mark>NLP</mark> sytems. I have been working in the field of NLP since my sophomore year. Currently, I want to learn more about the applications of deep learning and vision in NLP. 
 
 
 
@@ -71,7 +71,8 @@ content:
         # quote: >
         #   This journal
         description: | # this will include new lines to allow paragraphs
-          This was my first project related to <mark>NLP</mark>. I saw how research is a step by step process. I learnt the basics and many important concepts got cleared in the process. I got to know more about feature selection and how to apply models for a particular use case.  
+          This was my first project related to <mark>NLP</mark>. I learned to critically analyze shortcomings in related literature and implment baselines to guage the performance of my models. We collaborated with experts in the field of Geoinformatics, Dr. Christopher Jones (University of Cardiff) and Dr. Kristin Stock (University of Massey). Their valuable insights on Geospatial semantics helped me exploit the sources of information in a geographical context and model spatial correlations to interpret vague spatial language. Finally, I learned about structuring and presenting ideas in a cogent manner for research publications. 
+
       - layout: top-middle
         title: Search cum Annotation Tool
         #link: https://github.com/abhibha1807/summer_internship
