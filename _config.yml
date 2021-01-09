@@ -58,13 +58,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Preposition sense disambiguation task
+        title: Preposition Sense Disambiguation Task
         link: https://github.com/abhibha1807/summer_internship
         # link_text: Project Website
-        additional_links:
-          - title:  abhibha1807/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+#         additional_links:
+#           - title:  abhibha1807/modern-resume-theme
+#             icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -77,10 +77,10 @@ content:
         title: Extractive Search System for Scientific Text Mining
         #link: https://github.com/abhibha1807/summer_internship
         # link_text: Project Website
-        additional_links:
-          - title:  abhibha1807/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+#         additional_links:
+#           - title:  abhibha1807/modern-resume-theme
+#             icon: fab fa-github
+#             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -108,7 +108,7 @@ content:
         link: https://vnit.ac.in/
         # link_text: boringcompany.com
         sub_title: research Intern
-        caption: May2018-Dec2018
+        caption: May2018-Dec2020
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
