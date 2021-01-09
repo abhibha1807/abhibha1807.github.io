@@ -49,7 +49,7 @@ linkedin_username: abhibha-gupta
 # about_title: About Me
 about_profile_image: images/profile.svg
 about_content: | # this will include new lines to allow paragraphs
-  Hey everyone! Let me tell you a bit about myself, I am Abhibha and my aim is to tackle the prevailing biases present in Natural Language Processing (<mark>NLP</mark>) sytems. I have been working in the field of NLP since my sophomore year. Currently, I want to learn more about the applications of deep learning and vision in NLP. 
+  Hey everyone! Let me tell you a bit about myself, I am Abhibha and my aim is to tackle the prevailing biases present in Natural Language Processing <mark>(NLP)</mark> sytems. I have been working in the field of NLP since my sophomore year. Currently, I want to learn more about the applications of deep learning and vision in NLP. 
 
 
 
@@ -58,7 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Journal Work
+        title: Preposition sense disambiguation task
         link: https://github.com/abhibha1807/summer_internship
         # link_text: Project Website
         additional_links:
@@ -74,7 +74,7 @@ content:
           This was my first project related to <mark>NLP</mark>. I learned to critically analyze shortcomings in related literature and implment baselines to guage the performance of my models. We collaborated with experts in the field of Geoinformatics, Dr. Christopher Jones (University of Cardiff) and Dr. Kristin Stock (University of Massey). Their valuable insights on Geospatial semantics helped me exploit the sources of information in a geographical context and model spatial correlations to interpret vague spatial language. Finally, I learned about structuring and presenting ideas in a cogent manner for research publications. 
 
       - layout: top-middle
-        title: Search cum Annotation Tool
+        title: Extractive Search System for Scientific Text Mining
         #link: https://github.com/abhibha1807/summer_internship
         # link_text: Project Website
         additional_links:
@@ -101,7 +101,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I implemented a search cum annotation tool in the lines of the [Spike Cord search system by Allen Ai](https://spike.covid-19.apps.allenai.org/datasets/covid19/search#welcome), [Prodigy](https://prodi.gy/) and [Doccano](http://doccano.herokuapp.com/). I used Tkinter to design the UI and implemented algorithms to query from a database. I also added the functionality for the user to annotate the results and export them in different formats. I have experience working with libraries like 'River' and 'one learn' for online machine learning (ML) and 'spacy', 'Scikit Learn' for incremental ML. I used them to implement an NER (Named Entity Recognition) tagger using the pipeline implementation technique.
+            I implemented a search and annotation tool in the lines of the [Spike Cord search system by Allen Ai](https://spike.covid-19.apps.allenai.org/datasets/covid19/search#welcome), [Prodigy](https://prodi.gy/) and [Doccano](http://doccano.herokuapp.com/). The search system performs ‘extractive search’ focusing on words, phrases, sentences and returns the suitable matches from the database. I used Tkinter to design the User Interface and implemented algorithms to perform a search from the database. I also added the functionality for the user to annotate the results and export them in different formats. I have experience working with libraries like 'River' and 'One learn' for online machine learning (ML) and 'Spacy', 'Scikit Learn' for incremental ML. I used them to implement an NER (Named Entity Recognition) tagger using the pipeline implementation technique.
 
       - layout: left
         title: Visvesvarya National Institute of Technology, Nagpur
@@ -112,7 +112,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I contributed towards a Journal paper on Detecting Geospatialness of Prepositions using Transfer Learning'. I implemented machine learning classifiers like Naive Bayes, Bayesnet Random Forests, SVM’s and Metaclassifiers to distinguish between spatial and non spatial sense. I experimented with pretrained language models like Ulmfit (Fast ai), to fine tune a language model for classification purposes. I also used the Hugging Face implementation of ’BERT’ to train a classifier and achieve an F1-score of 0.94 for detecting geospatialness of prepositions.
+            I contributed towards a journal paper on 'Detecting Geospatialness of Prepositions from Natural Language Text'. It is currently under review at the Journal of Computational Linguistics . I implemented machine learning classifiers like Naive Bayes, Bayesnet Random Forests, SVM’s and Metaclassifiers to distinguish between spatial and non spatial sense of preposition. I experimented with pretrained language models like Ulmfit (Fast ai), to fine tune a language model for classification purposes. I also used the Hugging Face implementation of ’BERT’ to train a classifier and achieve an F1-score of 0.94 for detecting geospatialness of prepositions.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
