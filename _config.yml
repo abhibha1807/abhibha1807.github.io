@@ -59,7 +59,7 @@ content:
     content:
       - layout: top-middle
         title: Preposition Sense Disambiguation Task
-        link: https://github.com/abhibha1807/summer_internship
+        link: https://github.com/abhibha1807/Detecting_Geospatial_Prep
         # link_text: Project Website
 #         additional_links:
 #           - title:  abhibha1807/modern-resume-theme
