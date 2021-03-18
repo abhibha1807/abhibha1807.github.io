@@ -87,7 +87,7 @@ content:
         # quote: >
          
         description: | # this will include new lines to allow paragraphs
-            This project showed me how to use machine learning to create a tangible product for the end user. Since most of the documented approaches to sequence labelling rely heavily on generic datasets, I tweaked the existing methodologies to make them applicable to the specific domain of scientific texts. I understood the importance of ‘domain knowledge’ to tackle problems in real-life settings and learned how to approach challenges like data scarcity and information mining from domain specific texts. The report camn be found [here](https://github.com/abhibha1807/abhibha1807.github.io/blob/main/report.pdf)
+            This project showed me how to use machine learning to create a tangible product for the end user. Since most of the documented approaches to sequence labelling rely heavily on generic datasets, I tweaked the existing methodologies to make them applicable to the specific domain of scientific texts. I understood the importance of ‘domain knowledge’ to tackle problems in real-life settings and learned how to approach challenges like data scarcity and information mining from domain specific texts. The report can be found [here](https://github.com/abhibha1807/abhibha1807.github.io/blob/main/report.pdf)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
