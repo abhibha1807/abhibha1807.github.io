@@ -112,7 +112,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I contributed towards a journal paper on 'Disambiguating spatial prepositions: the case of geospatial sense detection'. It is currently under review at the Journal of Computational Linguistics . I implemented machine learning classifiers like Naive Bayes, Bayesnet Random Forests, SVM’s and Metaclassifiers to distinguish between spatial and non spatial sense of preposition. I experimented with pretrained language models like Ulmfit (Fast ai), to fine tune a language model for classification purposes. I also used the Hugging Face implementation of ’BERT’ to train a classifier and achieve an F1-score of 0.94 for detecting geospatialness of prepositions.
+            I contributed towards a journal paper on 'Disambiguating spatial prepositions: the case of geospatial sense detection'. It is currently under review at the Journal of Computational Linguistics . I implemented machine learning classifiers like Naive Bayes, Bayesnet Random Forests, SVM’s and Metaclassifiers to distinguish between spatial and non spatial sense of preposition. I experimented with pretrained language models like [Ulmfit](https://arxiv.org/abs/1801.06146), to fine tune a language model for classification purposes. I also used the Hugging Face implementation of ’BERT’ to train a classifier and achieve an F1-score of 0.94 for detecting geospatialness of prepositions.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
