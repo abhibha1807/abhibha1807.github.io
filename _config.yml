@@ -71,7 +71,7 @@ content:
         # quote: >
         #   This journal
         description: | # this will include new lines to allow paragraphs
-          This was my first project related to <mark>NLP</mark>. I learned to critically analyze shortcomings in related literature and implment baselines to guage the performance of my models. We collaborated with experts in the field of Geoinformatics, Dr. Christopher Jones (University of Cardiff) and Dr. Kristin Stock (University of Massey). Their valuable insights on Geospatial semantics helped me exploit the sources of information in a geographical context and model spatial correlations to interpret vague spatial language. Finally, I learned about structuring and presenting ideas in a cogent manner for research publications. 
+          This was my first project related to <mark>NLP</mark>. I learned to critically analyze shortcomings in related literature and implment baselines to guage the performance of my models. We collaborated with experts in the field of Geoinformatics, Dr. Christopher Jones (University of Cardiff) and Dr. Kristin Stock (University of Massey). Their valuable insights on Geospatial semantics helped me exploit the sources of information in a geographical context and model spatial correlations to interpret vague spatial language. Finally, I learned about structuring and presenting ideas in a cogent manner for research publications. The slides can be found [here](https://github.com/abhibha1807/Detecting_Geospatial_Prep/blob/main/detcting_Geospatial_ppt.pdf) 
 
       - layout: top-middle
         title: Extractive Search System for Scientific Text Mining
