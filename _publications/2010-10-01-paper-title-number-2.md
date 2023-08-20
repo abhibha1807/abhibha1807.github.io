@@ -11,5 +11,6 @@ citation: 'Gupta, A., Sheth, P. & Xie, P. Neural architecture search for pneumon
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
 [Download paper here](https://www.nature.com/articles/s41598-022-15341-0)
+[Press Coverage](https://today.ucsd.edu/story/scientists-apply-a-novel-machine-learning-method-to-help-diagnose-deadly-respiratory-illness)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
