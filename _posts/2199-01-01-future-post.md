@@ -1,7 +1,7 @@
 ---
-title: ''
+title: 'Neural Architecture Search for Pneumonia Diagnosis from Chest X-Rays'
 date: 2022-04-07
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2014/08/blog-post-3/
 tags:
   
 ---
