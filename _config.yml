@@ -83,12 +83,12 @@ author:
   name             : "Abhibha Gupta"
   avatar           : "profile.png"
   bio              : "MS in Information Science"
-  location         : "Piisburgh"
+  location         : "Pittsburgh"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uFboDskAAAAJ&hl=en"
   email            : "abg96@pitt.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/abhibha-gupta/"
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
