@@ -20,8 +20,8 @@ Timeline
 * June 2023: Currently collaborating with the SISL lab at Stanford
 * August 2022 - Commenced enrollment as a graduate student at the University of Pittsburgh.
 * Sept 2022: My second paper 'Disambiguating spatial prepositions: The case of geo-spatial sense detection' was published in the Transactions in GIS journal.
-* July 2022: Our paper 'Neural Architecture Search for Pneumonia Diagnosis from Chest X-Rays' was published at the  journal of Nature Scientific reports!
-* May 2021 - Started research in the ECE Department at the University of California, San Diego.
+* July 2022: Our paper 'Neural Architecture Search for Pneumonia Diagnosis from Chest X-Rays' was published at the journal of Nature Scientific reports!
+* May 2021 - Started research in the ECE Department at UCSD!
 * June 2021 - Completed my bachelor's in Computer Science and Engineering 
 * May 2020 - Interned at TCS Research, Pune
 * July 2017 - Commenced my bachelor's degree from the Indian Institute of Information Technology, Nagpur

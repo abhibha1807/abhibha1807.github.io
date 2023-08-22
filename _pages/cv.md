@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-*  **University of Pittsburgh**
+* **University of Pittsburgh**
   * Summer 2023: Graduate Student Researcher
   * Supervisor: Daqing He
     *  Guided summarization of clinical notes: Developed a comprehensive summary template covering patient demographics, chief complaint, OPQRST assessment, diagnostics, treatment, etc
