@@ -16,43 +16,43 @@ Education
 
 Research experience
 ======
-* Summer 2023: Graduate Student Researcher
-  * University of Pittsburgh
+*  **University of Pittsburgh**
+  * Summer 2023: Graduate Student Researcher
   * Supervisor: Daqing He
     *  Guided summarization of clinical notes: Developed a comprehensive summary template covering patient demographics, chief complaint, OPQRST assessment, diagnostics, treatment, etc
     * Developed a sentence classifier to determine sentence importance within clinical notes, providing guidance to the BART-based summarization model.
     * Additionally, fine-tuned a Bio-ClinicalBERT-based Named Entity Recognition (NER) system, enabling the implementation of a fact-checking metric for validating predicted summaries against the ground truth.
     * Currently experimenting with medically focused prompt engineering techniques by running multi-GPU inference using Huggingface Accelerate on large language models (LLMs) like LLaMA to improve the task of clinical note summarization.
 
-* Summer 2023: Independent Student Researcher
-  * Stanford University
+* **Stanford Intelligent Systems Laboratory** 
+  * Summer 2023: Independent Student Researcher
   * Supervisor: Mansur Arief
     * Improving rare traffic sign recognition via data augmentation: Addressed challenges of out-of-training distribution images (e.g., Rusty traffic signs), crucial for vehicle perception systems.
     * Augmented the German Traffic Sign Recognition Benchmark dataset through neural style transfer, introducing rusty sign images. Constructed a pipeline with Variational Prototyping Encoders to identify rare image class, achieving a 0.90 class-weighted F1 score
 
-* 2021-2022: Research Intern
-  * University of California, San Diego 
+* **University of California, San Diego**  
+  * 2021-2022: Research Intern
   * Advisor: Pengtao Xie 
     * Neural Architecture Search (NAS) for Pneumonia Diagnosis: Implemented Neural Architecture Search (NAS) for improving pneumonia diagnosis from Chest X-Ray images by Leveraging the ’Learning By Teaching’ framework, inspired by teacher-student learning paradigm that outperforms previous NAS methods like DARTS and PC-DARTS by 5.1%
     * The searched model attained a 97.6% ROC-AUC score for pneumonia detection, while being 4% smaller than DARTS. 
     * Reading by Translating: Implemented the ’Reading by Translating’ framework that improves the task of ’Machine Reading’ i.e extracting meaningful instances from the dataset. 
     * Involves 2 transformer based encoder-decoder models, that are trained mutually on the task of Machine Translation to learn importance weights assigned to the dataset instances. 
 
-* 2020: Research and Development Intern
-  * Tata Research, Design and Development Centre 
+* **Tata Research, Design and Development Centre**  
+  * 2020: Research and Development Intern
   * Advisor: Sagar Sunkle
-    *  Named Entity Recognition (NER): Worked on information retrieval using NER on domain-specific scientific corpora.
+    * Named Entity Recognition (NER): Worked on information retrieval using NER on domain-specific scientific corpora.
     * Implemented incremental learning for NER by adapting classifiers from open-source libraries such as Adaptive Random Forests, AdaBoost, Pretrained Spacy NER, Conditonal Random Fields (CRF) and Seq2Seq model.
     * Developed an ’Extractive search system for entity retrieval’ similar to AllenAI’s Spike cord search system that enables one to perform selective information extraction and annotate results by querying
 
-* 2018: Research Intern
-  * National Institute of Technology, Nagpur
+* **National Institute of Technology, Nagpur** 
+  * 2018: Research Intern
   * Advisor: Dr. Mansi A Radke
-    *  Word sense disambiguation: Detected the 'geo - spatialness' of a preposition in a sentence.
+    *  Word sense disambiguation: Detected the 'geospatialness' of a preposition in a sentence.
     * Formulated a geo-parser using NLP (implemented in Python) preprocessing tools that performed gazetteer lookups to extract placenames and geo-feature types from a sentence.
     * Implemented baseline classification methods like Naive Bayes, BayesNet, Random Forests, SVM’s and meta-classifiers. 
-    * Conducted a comparative study by fine-tuning  pre-trained models like ULMFiT, XLNet, Transformer-XL, RoBERTa, BERT, ALBERT and DistilBERT (adopted from the Hugging Face library)
-    * Achieved an F1 score of 0.947, an increase of 15\% as compared to baseline methods
+    * Conducted a comparative study by fine-tuning  pre-trained models like ULMFiT, XLNet, Transformer-XL, RoBERTa, BERT, ALBERT and DistilBERT.
+    * Achieved an F1 score of 0.947, an increase of 15% as compared to baseline methods
 
   
 Skills
@@ -62,8 +62,7 @@ Skills
 * Data Processing - Pandas, NLTK, CoreNLP, Gensim, Tidyverse (Dplyr, Tibble, Purrr), igraph
 * Visualisation - Matplotlib, Seaborn, ggplot
 * Graduate Coursework: Machine Learning in R (Code), Databases, Algorithms, Data Mining, Artificial Intelligence, Information Storage and Retrieval
-* Undergraduate Coursework: Natural
-Language Processing, Deep Learning, Computer Vision, Neuro-Fuzzy Techniques, Probability, Graph Theory, Data Science, Bio-informatics
+* Undergraduate Coursework: Natural Language Processing, Deep Learning, Computer Vision, Neuro-Fuzzy Techniques, Probability, Graph Theory, Data Science Bio-informatics
 
 Publications
 ======

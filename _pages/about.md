@@ -8,25 +8,22 @@ redirect_from:
   - /about.html
 ---
 I am an Information science grad student at the University of Pittsburgh. 
-  At present, I am working as a graduate student researcher at the University of Pittsburgh where I am advised by Prof. Daqing He.
+  At present, I am working as a graduate student researcher in the IRIS lab at the University of Pittsburgh where I am advised by Prof. Daqing He.
   Currently I am using Large Language Models (LLM's) for the task of clinical note summarisation. 
-  In the future, I am interested in exploring the concept of multimodal machine learning.
-  Previously I was a research intern under Prof. Pengtao Xie at UCSD and at TCS Research advised by Dr. Sagar Sunkle.
-  I am actively seeking research opportunities in relevant fields for fall 2023 or suitable job opportunities starting Summer 2024.
-  Feel free to ping me via my email or Linkedin to know more about my research!
+  In the future, I am interested in exploring the concept of multimodal machine learning in the medical domain.
+  Previously I was a research intern under Prof. Pengtao Xie at UCSD. Back in India, I spent 6 months at TCS Research, Pune.
+  I am actively seeking relevant job opportunities starting Summer 2024. Feel free to ping me to know more about my research!
 
 Timeline
 ======
 * August 2023: Our paper 'Towards Accurate and Clinically Meaningful Summarization of Electronic Health Record Notes: A Guided Approach' was accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23) for presentation!
 * June 2023: Currently collaborating with the SISL lab at Stanford
-* May 2023: Selected as a Graduate Student Researcher in the IRIS lab at Pitt
 * August 2022 - Commenced enrollment as a graduate student at the University of Pittsburgh.
 * Sept 2022: My second paper 'Disambiguating spatial prepositions: The case of geo-spatial sense detection' was published in the Transactions in GIS journal.
-* July 2022: My first paper 'Neural Architecture Search for Pneumonia Diagnosis from Chest X-Rays' was published at the prestigious journal of Nature Scientific reports!
-* May 2021 - Started research in the Electrical and Computer Engineering Department at UCSD
+* July 2022: Our paper 'Neural Architecture Search for Pneumonia Diagnosis from Chest X-Rays' was published at the  journal of Nature Scientific reports!
+* May 2021 - Started research in the ECE Department at the University of California, San Diego.
 * June 2021 - Completed my bachelor's in Computer Science and Engineering 
 * May 2020 - Interned at TCS Research, Pune
-* May 2018 - Started working as a researcher at the National Institute of Technology, Nagpur
 * July 2017 - Commenced my bachelor's degree from the Indian Institute of Information Technology, Nagpur
 
 
