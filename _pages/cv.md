@@ -69,7 +69,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Talks
+======
+* Conducted a day long workshop on 'Introduction to Machine Learning' at the Cummins college of Engineering, Nagpur. 
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
