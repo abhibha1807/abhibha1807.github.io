@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Information science grad student at the University of Pittsburgh. 
-  At present, I am working as a graduate student researcher in the IRIS lab at the University of Pittsburgh where I am advised by Prof. Daqing He.
-  Currently I am using Large Language Models (LLM's) for the task of clinical note summarisation. 
-  In the future, I am interested in exploring the concept of multimodal machine learning in the medical domain.
-  Previously I was a research intern under Prof. Pengtao Xie at UCSD. Back in India, I spent 6 months at TCS Research, Pune.
-  I am actively seeking relevant job opportunities starting Summer 2024. Feel free to ping me to know more about my research!
+I am an Information science grad student at the University of Pittsburgh. At present, I am working as a graduate student researcher in the IRIS lab at the University of Pittsburgh where I am advised by Prof. Daqing He.<br>
+  Currently, my scholarly pursuits are concentrated on leveraging Large Language Models (LLMs) to effectively distill voluminous clinical notes into succinct and informative summaries. 
+ In the future am interested in exploring the field of multimodal machine learning and Explainable AI.<br>
+
+  Previously I was a research intern under Prof. Pengtao Xie at UCSD. Back in India, I spent 6 months at TCS Research, Pune.<br>
+  Starting from the summer of 2024, I am actively seeking opportunities that align with my research trajectory. I welcome any inquiries about my research endeavors and am enthusiastic to engage in meaningful conversations. Feel free to reach out at your convenience.
 
 Timeline
 ======
