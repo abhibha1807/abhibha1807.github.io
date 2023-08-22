@@ -17,7 +17,7 @@ I am an Information science grad student at the University of Pittsburgh.
 Timeline
 ======
 * August 2023: Our paper 'Towards Accurate and Clinically Meaningful Summarization of Electronic Health Record Notes: A Guided Approach' was accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23) for presentation!
-* June 2023: Currently collaborating with the SISL lab at Stanford
+* June 2023: Currently collaborating with the SISL lab at Stanford University. 
 * August 2022 - Commenced enrollment as a graduate student at the University of Pittsburgh.
 * Sept 2022: My second paper 'Disambiguating spatial prepositions: The case of geo-spatial sense detection' was published in the Transactions in GIS journal.
 * July 2022: Our paper 'Neural Architecture Search for Pneumonia Diagnosis from Chest X-Rays' was published at the journal of Nature Scientific reports!
