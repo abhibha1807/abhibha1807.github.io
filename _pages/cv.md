@@ -11,11 +11,18 @@ redirect_from:
 
 Education
 ======
-* BTech. in Computer Science and Engineering, Indian Institute of Information Technology, Nagpur, 2021
 * M.S. in Information Science, University of Pittsburgh, 2024 
+* BTech. in Computer Science and Engineering, Indian Institute of Information Technology, Nagpur, 2021
 
 Research experience
 ======
+
+* **Stanford Intelligent Systems Laboratory** 
+  * Summer 2023: Independent Student Researcher
+  * Supervisor: Mansur Arief
+    * Improving rare traffic sign recognition via data augmentation: Addressed challenges of out-of-training distribution images (e.g., Rusty traffic signs), crucial for vehicle perception systems.
+    * Augmented the German Traffic Sign Recognition Benchmark dataset through neural style transfer, introducing rusty sign images. Constructed a pipeline with Variational Prototyping Encoders to identify rare image class, achieving a 0.90 class-weighted F1 score
+
 * **University of Pittsburgh**
   * Summer 2023: Graduate Student Researcher
   * Supervisor: Daqing He
@@ -23,12 +30,6 @@ Research experience
     * Developed a sentence classifier to determine sentence importance within clinical notes, providing guidance to the BART-based summarization model.
     * Additionally, fine-tuned a Bio-ClinicalBERT-based Named Entity Recognition (NER) system, enabling the implementation of a fact-checking metric for validating predicted summaries against the ground truth.
     * Currently experimenting with medically focused prompt engineering techniques by running multi-GPU inference using Huggingface Accelerate on large language models (LLMs) like LLaMA to improve the task of clinical note summarization.
-
-* **Stanford Intelligent Systems Laboratory** 
-  * Summer 2023: Independent Student Researcher
-  * Supervisor: Mansur Arief
-    * Improving rare traffic sign recognition via data augmentation: Addressed challenges of out-of-training distribution images (e.g., Rusty traffic signs), crucial for vehicle perception systems.
-    * Augmented the German Traffic Sign Recognition Benchmark dataset through neural style transfer, introducing rusty sign images. Constructed a pipeline with Variational Prototyping Encoders to identify rare image class, achieving a 0.90 class-weighted F1 score
 
 * **University of California, San Diego**  
   * 2021-2022: Research Intern
