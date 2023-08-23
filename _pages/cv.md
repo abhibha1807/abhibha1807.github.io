@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+link: https://github.com/abhibha1807/abhibha1807.github.io/blob/master/Abhibha_Gupta_1Page.pdf
 author_profile: true
 redirect_from:
   - /resume
