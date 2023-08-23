@@ -10,7 +10,6 @@ redirect_from:
 I am an Information science grad student at the University of Pittsburgh. At present, I am working as a graduate student researcher in the IRIS lab at the University of Pittsburgh where I am advised by Prof. [Daqing He](https://sites.pitt.edu/~dah44/)<br>
   Currently, my scholarly pursuits are concentrated on leveraging Large Language Models (LLMs) to effectively distill voluminous clinical notes into succinct and informative summaries. 
  In the future am interested in exploring the field of multimodal machine learning and Explainable AI.<br>
-
   Previously I was a research intern under [Prof. Pengtao Xi](https://pengtaoxie.github.io/)e at UCSD. Back in India, I spent 6 months at TCS Research, Pune.<br>
   Starting from the summer of 2024, I am actively seeking opportunities that align with my research trajectory. I welcome any inquiries about my research endeavors and am enthusiastic to engage in meaningful conversations. Feel free to reach out at your convenience.
 
