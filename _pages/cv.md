@@ -20,8 +20,9 @@ Research experience
 * **Stanford Intelligent Systems Laboratory** 
   * Summer 2023: Independent Student Researcher
   * Supervisor: Mansur Arief
-    * Improving rare traffic sign recognition via data augmentation: Addressed challenges of out-of-training distribution images (e.g., Rusty traffic signs), crucial for vehicle perception systems.
-    * Augmented the German Traffic Sign Recognition Benchmark dataset through neural style transfer, introducing rusty sign images. Constructed a pipeline with Variational Prototyping Encoders to identify rare image class, achieving a 0.90 class-weighted F1 score
+    * Improving rare traffic sign recognition via data augmentation: Addressed challenges of out-of-training distribution images(eg., Rusty traffic signs), crucial for vehicle perception systems. Under review at ICRA.
+    * Augmented the German Traffic Sign Recognition Benchmark dataset through neural style transfer, introducing rusty sign images. Constructed a pipeline with Variational Prototyping Encoders to identify and classify rare image class, achieving a 0.86 class-weighted F1 score.
+   
 
 * **University of Pittsburgh**
   * Summer 2023: Graduate Student Researcher
