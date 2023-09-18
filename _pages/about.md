@@ -15,6 +15,8 @@ I am an Information science grad student at the University of Pittsburgh. At pre
 
 Timeline
 ======
+
+* Excited to announce that I will be attending Grace Hopper Conference (2023) at Orlando, Florida.
 * August 2023: Our paper 'Towards Accurate and Clinically Meaningful Summarization of Electronic Health Record Notes: A Guided Approach' was accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23) for presentation!
 * June 2023: Currently collaborating with the SISL lab at Stanford University. 
 * August 2022 - Commenced enrollment as a graduate student at the University of Pittsburgh.
@@ -24,6 +26,17 @@ Timeline
 * June 2021 - Completed my bachelor's in Computer Science and Engineering 
 * May 2020 - Interned at TCS Research, Pune
 * July 2017 - Commenced my bachelor's degree from the Indian Institute of Information Technology, Nagpur
+
+Personal Bio
+=========
+
+Born amidst the vibrant hues and diverse cultures of India, my life has been a continuous journey across its multifaceted landscapes. From bustling cities to serene countryside, each place I've called home has added a unique thread to the fabric of my identity. This nomadic lifestyle has not only deepened my appreciation for India's rich cultural tapestry but has also instilled in me a profound adaptability.
+
+Traveling, for me, is more than just a pastime. It's a deeply personal experience, a way to reconnect with the world and myself. Each journey, whether it's a hike through untouched trails or a stroll through urban streets, offers a fresh perspective, a new story. Nature, in particular, serves as a sanctuary, a place of reflection and rejuvenation amidst the chaos of daily life.
+
+Beyond the landscapes, my travels have introduced me to a myriad of souls, each with their own tales and insights. These interactions have broadened my horizons, teaching me to value and understand diverse outlooks on life. My passion for photography allows me to capture these moments, while my love for cooking lets me explore and celebrate the world's diverse cuisines.
+
+In professional settings, my experiences across varied locales have nurtured an innate ability to understand and resonate with diverse perspectives. This adaptability has been invaluable, helping me seamlessly integrate into different teams and environments. If my journey resonates with you or if you share similar interests, let's share stories, insights, and experiences.
 
 
 
