@@ -15,7 +15,7 @@ I am an Information science grad student at the University of Pittsburgh. At pre
 
 Timeline
 ======
-
+* Our paper 'Argumentative Stance Prediction: An Exploratory Study on Multimodality and Few-Shot Learning' was accepted as part of the 10th Workshop on Argument Mining at EMNLP 2024. 
 * Excited to announce that I will be attending Grace Hopper Conference (2023) at Orlando, Florida.
 * August 2023: Our paper 'Towards Accurate and Clinically Meaningful Summarization of Electronic Health Record Notes: A Guided Approach' was accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23) for presentation!
 * June 2023: Currently collaborating with the SISL lab at Stanford University. 
