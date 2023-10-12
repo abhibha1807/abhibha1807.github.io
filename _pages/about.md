@@ -9,13 +9,13 @@ redirect_from:
 ---
 I am an Information science grad student at the University of Pittsburgh. At present, I am working as a graduate student researcher in the IRIS lab at the University of Pittsburgh where I am advised by Prof. [Daqing He](https://sites.pitt.edu/~dah44/)<br>
   Currently, my scholarly pursuits are concentrated on leveraging Large Language Models (LLMs) to effectively distill voluminous clinical notes into succinct and informative summaries. 
- In the future am interested in exploring the field of multimodal machine learning and Explainable AI.<br>
+ In the future am interested in exploring the field of Multimodal machine learning and Explainable AI.<br>
   Previously I was a research intern under [Prof. Pengtao Xie](https://pengtaoxie.github.io/) at UCSD. Back in India, I spent 6 months at TCS Research, Pune.<br>
   Starting from the summer of 2024, I am actively seeking opportunities that align with my research trajectory. I welcome any inquiries about my research endeavors and am enthusiastic to engage in meaningful conversations. Feel free to reach out at your convenience. Here is my [CV](https://github.com/abhibha1807/abhibha1807.github.io/blob/master/Abhibha_Gupta_1Page.pdf)
 
 Timeline
 ======
-* Our paper 'Argumentative Stance Prediction: An Exploratory Study on Multimodality and Few-Shot Learning' was accepted as part of the 10th Workshop on Argument Mining at EMNLP 2024. 
+* Our paper 'Argumentative Stance Prediction: An Exploratory Study on Multimodality and Few-Shot Learning' was accepted as part of the 10th Workshop on Argument Mining at EMNLP 2023. 
 * Excited to announce that I will be attending Grace Hopper Conference (2023) at Orlando, Florida.
 * August 2023: Our paper 'Towards Accurate and Clinically Meaningful Summarization of Electronic Health Record Notes: A Guided Approach' was accepted at IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23) for presentation!
 * June 2023: Currently collaborating with the SISL lab at Stanford University. 
