@@ -40,7 +40,8 @@ informative guidance to models from the general domain when the training
 data on the clinical domain is prohibitively sensitive and expensive. This
 work contributes to the ongoing efforts to automate the summarization of
 EHR notes, with the ultimate goal of improving healthcare delivery and
-patient outcomes.}'
+patient outcomes.},
+}'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
