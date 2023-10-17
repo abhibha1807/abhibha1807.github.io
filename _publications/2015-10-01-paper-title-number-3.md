@@ -19,29 +19,7 @@ DAYS    = {15},
 MONTH    = {October},
 YEAR    = {2023},
 KEYWORDS    = {Electronic health records; named entity recognition; abstractive
-summarization; natural language processing; deep learning},
-ABSTRACT    = {Clinicians are usually under time pressure when they review patients'
-electronic health records (EHR), therefore, there are great benefits to
-providing clinicians high quality summarizations of patients' EHR. However,
-existing summarization algorithms cannot satisfy their needs. In this
-paper, we present a novel approach to summarize EHR notes using a guided
-summarization model. Our model integrates a structured template developed
-with a clinical domain expert, a Named Entity Recognition (NER) model and
-sentence classification model for guidance extraction, and a fact-checking
-metric for evaluating the generated summaries. We trained our model on a
-large de-identified EHR dataset. The results demonstrate that our guidance,
-which includes Chief Complaint (CC), NER, guidance from the History of
-Present Illness (HPI) section, and guidance from the Medical Decision
-Making (MDM) section, can significantly improve the performance of the
-models in generating accurate and clinically meaningful summaries. The Gsum
-(CNN) model with all the guidance aforementioned achieved the highest F1
-score of 46.4, demonstrating the effectiveness of introducing precise and
-informative guidance to models from the general domain when the training
-data on the clinical domain is prohibitively sensitive and expensive. This
-work contributes to the ongoing efforts to automate the summarization of
-EHR notes, with the ultimate goal of improving healthcare delivery and
-patient outcomes.},
-}'
+summarization; natural language processing; deep learning}
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
