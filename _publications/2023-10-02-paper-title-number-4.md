@@ -6,13 +6,24 @@ excerpt: 'To advance argumentative stance prediction as a multimodal problem, th
 date: 2023-10-02
 venue: 'The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: ''
-citation: '@misc{sharma2023argumentative,
-      title={Argumentative Stance Prediction: An Exploratory Study on Multimodality and Few-Shot Learning}, 
-      author={Arushi Sharma and Abhibha Gupta and Maneesh Bilalpur},
-      year={2023},
-      eprint={2310.07093},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+citation: '@inproceedings{sharma-etal-2023-argumentative,
+    title = "Argumentative Stance Prediction: An Exploratory Study on Multimodality and Few-Shot Learning",
+    author = "Sharma, Arushi  and
+      Gupta, Abhibha  and
+      Bilalpur, Maneesh",
+    editor = "Alshomary, Milad  and
+      Chen, Chung-Chi  and
+      Muresan, Smaranda  and
+      Park, Joonsuk  and
+      Romberg, Julia",
+    booktitle = "Proceedings of the 10th Workshop on Argument Mining",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.argmining-1.18",
+    doi = "10.18653/v1/2023.argmining-1.18",
+    pages = "167--174"
 }'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->

@@ -6,7 +6,14 @@ excerpt: 'Abstract—Clinicians are often under time pressure when they review p
 date: 2023-08-15
 venue: 'IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23)'
 paperurl: ''
-citation: ''
+citation: '@inproceedings{luo2023towards,
+  title={Towards Accurate and Clinically Meaningful Summarization of Electronic Health Record Notes: A Guided Approach},
+  author={Luo, Zhimeng and Ji, Yuelyu and Gupta, Abhibha and Li, Zhuochun and Frisch, Adam and He, Daqing},
+  booktitle={2023 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
